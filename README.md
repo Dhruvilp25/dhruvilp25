@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dhruvil 👋
 
-<!--
-**Dhruvilp25/dhruvilp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Western University focused on full-stack development, cloud systems, and AI-powered applications.
 
-Here are some ideas to get you started:
+## Some things I've worked on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **ServSync** — Serverless automation system syncing Notion and Google Sheets using AWS
+* **HotSpots.ai** — ML-powered spatial analysis platform for urban heat vulnerability
+* **MyBuddy** — Real-time AI mental health support agent using OpenAI APIs
+* **ResDex** — Full-stack research collaboration platform
+
+## Tech I use
+
+**Languages:** Python, TypeScript, JavaScript, Java, C#, SQL
+**Frameworks & Tools:** React, Next.js, Node.js, Docker, Git
+**Cloud:** AWS (Lambda, DynamoDB, Step Functions, S3)
+**AI & Data:** OpenAI API, Scikit-learn, TensorFlow, NumPy
+
